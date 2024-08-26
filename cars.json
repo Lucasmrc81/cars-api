@@ -3,7 +3,7 @@
     "id": 1,
     "marca": "BYD",
     "modelo": "Tan",
-    "preco": "A partir de R$ 529.890,00",
+    "preco": "R$ 529.890,00",
     "bateria": "300 kWh",
     "potencia": "200cv",
     "recarga": "30 min",
@@ -17,7 +17,7 @@
     "bateria": "230 kWh",
     "potencia": "100cv",
     "recarga": "20 min",
-    "urlPhoto": "https://raw.githubusercontent.com/Lucasmrc81/cars-api/main/imagens/d20ed1c394175aeef7eca722377446c3.jpg"
+    "urlPhoto": "https://raw.githubusercontent.com/Lucasmrc81/cars-api/main/imagens/TeslaCybertruckPNGImage.png"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "bateria": "150 kWh",
     "potencia": "90cv",
     "recarga": "25 min",
-    "urlPhoto": "https://raw.githubusercontent.com/Lucasmrc81/cars-api/main/imagens/d20ed1c394175aeef7eca722377446c3.jpg"
+    "urlPhoto": "https://raw.githubusercontent.com/Lucasmrc81/cars-api/main/imagens/TeslaCybertruckPNGImage.png"
   },
   {
     "id": 7,
@@ -78,5 +78,15 @@
     "potencia": "150cv",
     "recarga": "35 min",
     "urlPhoto": "https://raw.githubusercontent.com/Lucasmrc81/cars-api/main/imagens/leaf.png"
+  },
+  {
+    "id": 9,
+    "marca": "Tesla",
+    "modelo": "Model S",
+    "preco": "R$ 694.000,00",
+    "bateria": "250 kWh",
+    "potencia": "300cv",
+    "recarga": "40 min",
+    "urlPhoto": "https://raw.githubusercontent.com/Lucasmrc81/cars-api/main/imagens/TeslaModelSElectricCarPNGImage.png"
   }
 ]
